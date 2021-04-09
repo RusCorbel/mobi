@@ -1,0 +1,98 @@
+h1 {
+	font-size: 1.5em;
+}
+
+
+.bgred {
+	background-color: #ec1c26;
+}
+
+.twhite {
+	color: #fff !important;
+}
+
+.navbar {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.logo {
+	max-width: 144px;
+}
+
+.headtop {
+	background-image: url(../img/1_Mobitruck.jpg);
+	background-position: center;
+	background-size: cover;
+
+	width: 100%;
+	height: 460px;
+	
+}
+
+.headtxt {
+	max-width: 400px;
+}
+
+.tst {
+	
+	max-width: 100%;
+
+}
+
+.mn60 {
+	margin-top: -60px;
+}
+
+.w10p {
+	width: 75px;
+	height: 75px;
+}
+
+.catbut {
+	color: #ec1c26;
+    border: 1px solid #ec1c26;
+    border-radius: 50px;
+    background-color: #fff;
+
+}
+
+.mw560 {
+	max-width: 560px;
+}
+
+.bggray {
+	 background-color: #f0f0f0;
+}
+
+.truckimg {
+	max-width: 500px;
+	width: 100%;
+}
+
+.shadow-sm {
+
+box-shadow: 0 .295rem .75rem  rgba(0,0,0,.175)!important;
+
+}
+
+.prodinfo {
+	max-width: 550px;
+}
+
+.logos {
+	
+	max-height: 297px;
+}
+
+.slider {
+	max-width: 560px;
+	max-height: 372px;
+}
+
+
+.carousel-control-next, .carousel-control-prev {
+	width: auto;
+}
+
+   
